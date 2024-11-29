@@ -4,3 +4,5 @@
 ## Dato Masivos
 
 ## Tareas
+- [PIA_PDF](PIA.ipynb)
+- [PIA_Código](PIA.pdf)
